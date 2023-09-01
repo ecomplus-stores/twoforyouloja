@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+    "text": "COMPRE COM SEGURANÇA | ENTREGA RÁPIDA SATISFAÇÃO GARANTIDA OU SEU DINHEIRO DE VOLTA | TODA LOJA EM 10X SEM JUROS FRETE GRÁTIS PARA TODO BRASIL",
+    "link": "/promotion",
+    "background": "#f5efef",
+    "color": "#050505"
   },
   "contacts_stripe": {
     "pages": [
