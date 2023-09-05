@@ -9,7 +9,8 @@
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "Não gostou? A primeira troca é gratuita",
+    "title": "consulte nossa política"
   },
   "promo": {
     "show": true,
