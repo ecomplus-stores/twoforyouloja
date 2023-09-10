@@ -10,7 +10,26 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/camisas-basicas-banner-para-ecommerce-e-loja-de-roupas-1200-x-300-px-.png"
+          "img": "/img/uploads/camisas-basicas-banner-para-ecommerce-e-loja-de-roupas-1200-x-300-px-.png",
+          "mobile_img": "/img/uploads/camisas-basicas-banner-para-ecommerce-e-loja-de-roupas-celular.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/camisas-basicas-banner-para-ecommerce-e-loja-de-roupas-1200-x-300-px-1-.png",
+          "mobile_img": "/img/uploads/camisas-basicas-banner-para-ecommerce-e-loja-de-roupas-1200-x-300-px-480-x-300-px-1-.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/camisas-basicas-banner-para-ecommerce-e-loja-de-roupas-1200-x-300-px-2-.png",
+          "mobile_img": "/img/uploads/camisas-basicas-banner-para-ecommerce-e-loja-de-roupas-1200-x-300-px-480-x-300-px-.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-frete-gratis-para-loja-online-de-roupas-1200-x-300-px-.png",
+          "mobile_img": "/img/uploads/banner-frete-gratis-para-loja-online-de-roupas-celular.png"
         }
       ]
     },
