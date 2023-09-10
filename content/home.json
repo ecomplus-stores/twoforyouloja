@@ -56,6 +56,11 @@
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "sales"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 5,
+      "offset": 0
     }
   ]
 }
