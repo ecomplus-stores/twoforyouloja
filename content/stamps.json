@@ -1,3 +1,14 @@
 {
-  "stamps_list": []
+  "stamps_list": [
+    {
+      "id": "Frete Grátis ",
+      "img": "/img/uploads/selo-frete-gra-tis.png",
+      "skus": [
+        "GLR5546",
+        "ERS1272-C435-C414-C202-C992-C518-C919-C885-C485-C769",
+        "GLR5546-C480",
+        "GLR5546-C480-C271"
+      ]
+    }
+  ]
 }
