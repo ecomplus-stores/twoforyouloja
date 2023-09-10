@@ -51,6 +51,11 @@
       "type": "page-title",
       "title": "TWO FOR YOU ",
       "description": "Nossa coleção abraça a singularidade de cada indivíduo, incentivando a expressão da sua identidade pessoal através da moda. Seja você mesmo, destaque-se na multidão e deixe a sua marca com a Two For You."
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "sales"
     }
   ]
 }
