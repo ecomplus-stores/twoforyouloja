@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "custom-content",
-      "markdown": "![](/img/uploads/3camisas.jpg)"
+      "markdown": "![]()"
     },
     {
       "type": "banner-slider",
@@ -44,7 +44,7 @@
     {
       "autoplay": 0,
       "page": 1,
-      "title": "Seja exclusivo, use o básico que realtece sua elegância!",
+      "title": "Seja exclusivo, use o básico que realça sua elegância!",
       "shuffle": false,
       "headless": false,
       "type": "collection-shelf",
@@ -55,7 +55,7 @@
     {
       "type": "page-title",
       "title": "TWO FOR YOU ",
-      "description": "Nossa coleção abraça a singularidade de cada indivíduo, incentivando a expressão da sua identidade pessoal através da moda. Seja você mesmo, destaque-se na multidão e deixe a sua marca com a Two For You."
+      "description": "Nossa coleção abraça a singularidade de cada indivíduo incentivando a expressão da sua identidade pessoal através da moda. Seja você mesmo, destaque-se na multidão e deixe a sua marca com a Two For You."
     },
     {
       "type": "collection-shelf",
