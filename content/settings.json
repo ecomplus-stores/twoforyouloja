@@ -4,7 +4,7 @@
   "primary_color": "#060606",
   "theme": {
     "bootswatch": "_",
-    "custom": "ecom-beauty"
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/twoforyouloja",
@@ -14,7 +14,7 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
+  "font_family": "Ubuntu",
   "favicon": "/img/uploads/favicon.png",
   "icons_font": "_",
   "country_code": "BR",
