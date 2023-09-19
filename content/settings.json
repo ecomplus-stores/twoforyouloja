@@ -4,7 +4,7 @@
   "primary_color": "#060606",
   "theme": {
     "bootswatch": "_",
-    "custom": "clean-gray"
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/twoforyouloja",
