@@ -15,12 +15,12 @@
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "Montserrat",
-  "favicon": "/img/uploads/favicon.png",
-  "icons_font": "_",
+  "favicon": "/img/uploads/download-2-.png",
+  "icons_font": "tabler-icons",
   "country_code": "BR",
   "secondary_color": "",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/download-2-.png",
   "store_id": 51451,
   "description": "FEITA PARA DURAR",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/download-2-.png"
 }
