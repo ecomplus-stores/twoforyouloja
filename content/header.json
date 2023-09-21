@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "COMPRE COM SEGURANÇA | FRETE GRÁTIS PARA TODO BRASIL | TODA LOJA EM 10X SEM JUROS ",
+    "text": "COMPRE COM SEGURANÇA | FRETE GRÁTIS PARA TODO BRASIL | TODA LOJA EM 6X SEM JUROS ",
     "link": "",
     "background": "#000000",
     "color": "#ffffff"
@@ -21,5 +21,5 @@
   "desktop_megamenu": false,
   "search_input": true,
   "alphabetical_order_submenu": false,
-  "full_width_submenu": false
+  "full_width_submenu": true
 }
