@@ -3,10 +3,6 @@
   "meta_description": "Camiseta básica de algodão egípcio",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/camisas-basicas-banner-para-ecommerce-e-loja-de-roupas-1200-x-300-px-480-x-300-px-1-.png"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 10000,
       "full_width": false,
