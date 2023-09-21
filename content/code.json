@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": "@media (max-width: 765px) {\n.info-bar__item{\n  font-size: 80%;\n  max-width: 26vw;\n\n}\n}",
   "html_head": "",
   "html_body": ""
 }
