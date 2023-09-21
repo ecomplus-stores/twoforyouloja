@@ -10,26 +10,16 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/3camisas-1080x1080.jpg",
-          "mobile_img": "/img/uploads/3camisas-1080x1080.jpg"
+          "img": "/img/uploads/banner-principal.jpg",
+          "mobile_img": "/img/uploads/banner-site-mobile-principal.jpg"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/frete-gratis.png",
-          "mobile_img": "/img/uploads/frete-gratis.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/2.png",
-          "mobile_img": "/img/uploads/2.png"
+          "img": "/img/uploads/frete-grande.jpeg",
+          "mobile_img": "/img/uploads/frete-pequeno.jpeg"
         }
       ]
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     },
     {
       "autoplay": 0,
@@ -46,6 +36,10 @@
       "type": "page-title",
       "title": "TWO FOR YOU ",
       "description": "Nossa coleção abraça a singularidade de cada indivíduo incentivando a expressão da sua identidade pessoal através da moda. Seja você mesmo, destaque-se na multidão e deixe a sua marca com a Two For You."
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     },
     {
       "type": "blog",
