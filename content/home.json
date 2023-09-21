@@ -56,18 +56,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "64f71a712cd6b659593ea048:categories:TFU - Básica - V:/camiseta-gola-v"
-    },
-    {
-      "type": "shelfs-nav",
-      "shuffle": false,
-      "limit": 8,
-      "page": 1,
-      "collection_ids": [
-        "64f71a622cd6b659593ea038:categories:TFU - Básica - C:/camiseta-gola-c"
-      ],
-      "sort": "views",
-      "autoplay": 0
+      "collection_id": "64f71a622cd6b659593ea038:categories:TFU - Básica - C:/camiseta-gola-c"
     },
     {
       "type": "collection-shelf",
@@ -76,12 +65,6 @@
       "page": 1,
       "collection_id": "64f71a712cd6b659593ea048:categories:TFU - Básica - V:/camiseta-gola-v",
       "sort": "views"
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": "name"
     }
   ]
 }
