@@ -25,10 +25,10 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "https://twoforyouloja.netlify.app/camiseta-gola-c-c874-c860-c569-c219-c363-c452-c612-c422"
+          "img": "/img/uploads/download-2-movel.png"
         },
         {
-          "img": "https://twoforyouloja.netlify.app/camiseta-gola-c-c874-c860-c569-c219-c363-c452-c612-c422-c378",
+          "img": "/img/uploads/download-2-movel.png",
           "link": "https://twoforyouloja.netlify.app/camiseta-gola-c-c874-c860-c569-c219-c363-c452-c612-c422-c378"
         }
       ]
