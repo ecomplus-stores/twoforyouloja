@@ -22,29 +22,6 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/tms09831.jpg",
-          "link": "https://twoforyouloja.netlify.app/camiseta-gola-c-c874-c860-c569-c219-c363-c452-c612-c422-c178-c468",
-          "alt": "Azul"
-        },
-        {
-          "img": "/img/uploads/tms09762.jpg",
-          "link": "https://twoforyouloja.netlify.app/camiseta-gola-c-c874-c860-c569-c219-c363-c452-c612-c422-c378",
-          "alt": "Branca"
-        },
-        {
-          "img": "/img/uploads/tms09707.jpg",
-          "link": "https://twoforyouloja.netlify.app/camiseta-gola-c-c874-c860-c569-c219-c363-c452-c612-c422"
-        },
-        {
-          "img": "/img/uploads/tms09796.jpg",
-          "link": "https://twoforyouloja.netlify.app/camiseta-gola-c-c874-c860-c569-c219-c363-c452-c612-c422-c178"
-        }
-      ]
-    },
-    {
       "autoplay": 0,
       "page": 1,
       "title": "Sua nova paixão em camisetas! De adeus ao comum!",
