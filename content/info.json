@@ -6,15 +6,15 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele 10x sem juros"
+    "text": "Parcele 6x sem juros"
   },
   "exchange": {
-    "show": false,
+    "show": true,
     "text": "Não gostou? A primeira troca é gratuita",
     "title": ""
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": "Diferentes promoções ao longo do ano!"
   }
 }
