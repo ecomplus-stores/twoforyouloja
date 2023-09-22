@@ -1,1 +1,47 @@
 // Add your custom CSS here.
+@media (min-width: 992px) {
+    .product-item {
+        .product-card {
+            height: 410px;
+            padding: var(--spacer-2) 0;
+        }
+        .product-card__pictures {
+          height: unset;
+          img {
+            max-height: 350px;
+            object-fit: cover;
+            width: 100%;
+          }
+        }
+    }
+}
+
+@media (max-width: 576px) {
+    .product-item {
+        .product-card, .product-card.search-engine__item {
+            height: 330px;
+            padding: var(--spacer-2) 0;
+        }
+        .product-card__pictures {
+          height: unset;
+          img {
+            max-height: 300px;
+            object-fit: cover;
+            width: 100%;
+          }
+        }
+    }
+}
+
+.product-card.search-engine__item {
+    height: 280px;
+    padding: var(--spacer-3) 0;
+}
+.product-card.search-engine__item .product-card__pictures {
+  height: unset;
+  img {
+    max-height: 250px;
+    object-fit: cover;
+    width: 100%;
+  }
+}
