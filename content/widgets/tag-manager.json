@@ -4,7 +4,7 @@
   "desktopOnly": false,
   "enableCheckout": true,
   "options": {
-    "gtmContainerId": "GTM-KP2J79W6",
+    "gtmContainerId": "UA-256187480-1",
     "dataLayerVar": "dataLayer",
     "partytown": false,
     "isDebug": true
