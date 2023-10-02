@@ -1,5 +1,5 @@
 {
   "css": "@media (min-width: 992px) {\n\t .product-item .product-card {\n\t\t height: 410px;\n\t\t padding: var(--spacer-2) 0;\n\t}\n\t .product-item .product-card__pictures {\n\t\t height: unset;\n\t}\n\t .product-item .product-card__pictures img {\n\t\t max-height: 350px;\n\t\t object-fit: cover;\n\t\t width: 100%;\n\t}\n}\n @media (max-width: 576px) {\n\t .product-item .product-card, .product-item .product-card.search-engine__item {\n\t\t height: 330px;\n\t\t padding: var(--spacer-2) 0;\n\t}\n\t .product-item .product-card__pictures {\n\t\t height: unset;\n\t}\n\t .product-item .product-card__pictures img {\n\t\t max-height: 300px;\n\t\t object-fit: cover;\n\t\t width: 100%;\n\t}\n}",
   "html_head": "",
-  "html_body": ""
+  "html_body": "<a href=\"https://wa.me/5561986781287?text=\" style=\"position:fixed;width:60px;height:60px;bottom:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;z-index:1000;right:40px;\" target=\"_blank\">\n<i style=\"margin-top:16px\" class=\"fab fa-whatsapp\"></i>\n</a>"
 }
