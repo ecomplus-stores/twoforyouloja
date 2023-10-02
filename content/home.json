@@ -61,7 +61,7 @@
     {
       "type": "banner-slider",
       "autoplay": 2000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "start": "",
