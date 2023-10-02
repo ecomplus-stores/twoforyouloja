@@ -57,6 +57,19 @@
       "type": "page-title",
       "title": "MODERNO, SOFISTICADO, DURÁVEL",
       "description": "Nossa linha de camisetas essenciais são confeccionadas em Algodão Egípcio certificado. De fibras longas, cultivado no Delta do Rio Nilo que garante conforto, leveza e sofisticação para sua rotina diária. A linha de camisetas TFU conta com uma modelagem clássica, feita em 93% Algodão Egípcio e 7% Elastano."
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 2000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/cabide.jpg",
+          "alt": "PARE DE DESPERCIÇAR DINHEIRO COM \"MARCAS DE GRANDE NOME\""
+        }
+      ]
     }
   ]
 }
