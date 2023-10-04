@@ -76,25 +76,25 @@
       "autoplay": 0,
       "reviews": [
         {
-          "img": "",
+          "img": "/img/uploads/matheus.jpg",
           "nome": "Matheus Henrique",
           "cidade": "São Paulo",
           "texto": "Camiseta extremamente confortável, além de uma qualidade excelente."
         },
         {
-          "img": "",
+          "img": "/img/uploads/reinaldo.jpg",
           "nome": "Reinaldo Marcos Soares",
           "cidade": "Salvador",
           "texto": "Excelente produto"
         },
         {
-          "img": "",
+          "img": "/img/uploads/ubiracy.jpg",
           "nome": "Ubiracy Coelho",
           "cidade": "Mato Grosso",
           "texto": "Ótima camisa. Produto excelente. Melhor camisa que já comprei. Indico a todos."
         },
         {
-          "img": "",
+          "img": "/img/uploads/barao.jpg",
           "nome": "Barão Koeningkam",
           "cidade": "Rio de Janeiro",
           "texto": "Muito atencioso o atendimento. Camisa de ótimo material, muito bom o caimento e como se ajusta no corpo. Comprarei de outras cores!"
@@ -106,13 +106,13 @@
           "texto": "Camiseta de tecido maravilhoso, macio e praticamente não amarrota. Pra quem gosta de básico, é excelente."
         },
         {
-          "img": "",
+          "img": "/img/uploads/rafa.jpg",
           "nome": "Rafael Ferrão",
           "cidade": "Brasília",
           "texto": "O produto é excelente! Confortável e de ótima qualidade!"
         },
         {
-          "img": "",
+          "img": "/img/uploads/wako.jpg",
           "nome": "Thiago Wako",
           "cidade": "Brasília",
           "texto": "Excelente produto, camisa de ótimo tecido, bem leve e confortável. Usei por baixo de uma blusa social a tarde inteira e mesmo assim me senti confortável. 👍🏻"
@@ -120,22 +120,26 @@
         {
           "nome": "Sylvio",
           "cidade": "Maceio",
-          "texto": "Excelente camisa, tecido extremamente confortável, veste muito bem. Muito satisfeito com a compra."
+          "texto": "Excelente camisa, tecido extremamente confortável, veste muito bem. Muito satisfeito com a compra.",
+          "img": "/img/uploads/sylvio.jpg"
         },
         {
           "nome": "Thiago Trancoso",
           "cidade": "Bahia",
-          "texto": "Camiseta top!! Lavou, secou e já pode usar. Realmente incrível"
+          "texto": "Camiseta top!! Lavou, secou e já pode usar. Realmente incrível",
+          "img": "/img/uploads/trancoso.jpg"
         },
         {
           "nome": "Tiago Araujo Neves",
           "cidade": "São Paulo",
-          "texto": "Camiseta perfeita! Confortável, minimalista e versátil, combina perfeitamente com estilo despojado ou casual. Peça essencial em qualquer guarda roupas. Recomendo"
+          "texto": "Camiseta perfeita! Confortável, minimalista e versátil, combina perfeitamente com estilo despojado ou casual. Peça essencial em qualquer guarda roupas. Recomendo",
+          "img": "/img/uploads/tiago.jpg"
         },
         {
           "nome": "Fábio Saint",
           "cidade": "Belo Horizonte",
-          "texto": "Camiseta de altíssima qualidade super confortável bonita ajusta perfeitamente no corpo , uma das Melhores camisetas para uso diário, recomendadíssimo nota 10."
+          "texto": "Camiseta de altíssima qualidade super confortável bonita ajusta perfeitamente no corpo , uma das Melhores camisetas para uso diário, recomendadíssimo nota 10.",
+          "img": "/img/uploads/fabio.jpg"
         }
       ],
       "title": "Os clientes compram e falam!"
