@@ -70,6 +70,34 @@
           "alt": "PARE DE DESPERCIÇAR DINHEIRO COM \"MARCAS DE GRANDE NOME\""
         }
       ]
+    },
+    {
+      "type": "review-carousel",
+      "autoplay": 9000,
+      "reviews": [
+        {
+          "img": "/img/uploads/augusto.png"
+        },
+        {
+          "img": "/img/uploads/diogo.png"
+        },
+        {
+          "img": "/img/uploads/kennedy.png"
+        },
+        {
+          "img": "/img/uploads/fabio.png"
+        },
+        {
+          "img": "/img/uploads/sylvio.png"
+        },
+        {
+          "img": "/img/uploads/thiago.png"
+        },
+        {
+          "img": "/img/uploads/tiago2.png"
+        }
+      ],
+      "title": "Os clientes compram e falam!"
     }
   ]
 }
