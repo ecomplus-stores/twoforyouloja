@@ -116,3 +116,9 @@
 .product__picture img {
   width: 100%;
 }
+.products-carousel .glide__slides {
+  min-height: 450px;
+  @media(max-width: 560px) {
+    min-height: 350px;
+  }
+}
