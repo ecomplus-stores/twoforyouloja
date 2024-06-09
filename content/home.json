@@ -12,6 +12,12 @@
           "end": "",
           "img": "/img/uploads/banner-principal.jpg",
           "mobile_img": "/img/uploads/banner-site-mobile-principal.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-semana-do-consumidor-elegante-branco-e-preto-1680-x-560-px-.png",
+          "mobile_img": "/img/uploads/banner-semana-do-consumidor-elegante-branco-e-preto-1680-x-560-px-720-x-1000-px-.png"
         }
       ]
     },
