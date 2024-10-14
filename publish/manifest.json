@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.9af260d167c9f85c726625d2e077940c.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.088f76d94cb7ba5ef28bbb290d7437a9.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.47a645acb264554c6f6f5c295b1fb56c.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.b6c67008ac1ab73b29988fb644b24738.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.77bc304e99d959b3cb312ace44689d16.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "TWO FOR YOU",
+  "short_name": "TWO FOR YOU ",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "FEITA PARA DURAR",
+  "background_color": "#ffffff",
+  "theme_color": "#060606"
+}
